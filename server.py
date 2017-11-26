@@ -22,7 +22,7 @@ def getVideoList():
 def getVideo():
 
 	cursor = conn.cursor(pymysql.cursors.DictCursor)
-	cursor.execute('SELECT KOREAN, ENGLISH, ROLE, TIME FROM SUBTITLE WHERE VIDEO_KEY = "' + request.form['video_key'] + '"');
+	cursor.execute('SELECT KOREAN, ENGLISH, ROLE, TIME FROM SUBTITLE WHERE VIDEO_KEY = "' + request.form['video_key'] + '" ORDER BY TIME ASC');
 	rows = cursor.fetchall()
 	return json.dumps(rows, encoding = 'utf-8')
 
