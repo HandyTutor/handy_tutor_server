@@ -2,14 +2,14 @@
 ## How to install
 <code>
   pip install virtualenv
-  </code>
+  </code> 
 <code>
   virtualenv env
   </code>
-<code>
+<code> 
   source env/bin/activate
-  </code>
-  <code>
+  </code> 
+<code>
   pip install flask
   </code>
   <code>
@@ -19,6 +19,7 @@
 <code>
   python server.py
   </code>
+  
 ## How to run
 <code>
   cd ~/handy_tutor_server
