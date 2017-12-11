@@ -14,10 +14,6 @@ Handy Tutor is an English conversation learning application using English video 
 ## Voice UI State Diagram 
 <img src="diagram2.png" width="65%" >
 
-## The Model For Sentence Similarity 
-<img src="diagram3.png" width="50%" >
-<img src="diagram4.png" width="50%" >
-
 # Handy Tutor Server 
 ## How to install 
 <pre>
