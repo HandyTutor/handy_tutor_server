@@ -18,6 +18,8 @@ Handy Tutor is an English conversation learning application using English video 
   $ source env/bin/activate
   $ pip install flask
   $ pip install pymysql
+  $ pip install gensim
+  $ pip install numpy
 </pre>
 
 ## How to run
