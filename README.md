@@ -8,15 +8,18 @@ Handy Tutor is an English conversation learning application using English video 
 <img style="margin-left:10px;" src="screenshot3.png" width="65%" >
 <img style="margin-left:10px;" src="screenshot4.png" width="65%" >
 
-## System Structure Diagram
+## System Structure Diagram 
 <img src="diagram1.png" width="65%" >
-## Voice UI State Diagram
+
+## Voice UI State Diagram 
 <img src="diagram2.png" width="65%" >
-## The Model For Sentence Similarity
+
+## The Model For Sentence Similarity 
 <img src="diagram3.png" width="50%" >
 <img src="diagram4.png" width="50%" >
-# Handy Tutor Server
-## How to install
+
+# Handy Tutor Server 
+## How to install 
 <pre>
   $ git clone https://github.com/HandyTutor/handy_tutor_server
   $ git cd handy_tutor_server
