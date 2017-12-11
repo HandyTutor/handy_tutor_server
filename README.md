@@ -1,4 +1,5 @@
 # Handy Tutor
+<img  src="logo.png" width="65%" >
 Handy Tutor is an English conversation learning application using English video contents based on AI speaker.
 
 ## Screen SHot
