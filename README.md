@@ -9,10 +9,10 @@ Handy Tutor is an English conversation learning application using English video 
 <img style="margin-left:10px;" src="screenshot4.png" width="65%" >
 
 ## System Structure Diagram 
-<img src="diagram1.png" width="65%" >
+<img src="diagram1.png" width="100%" >
 
 ## Voice UI State Diagram 
-<img src="diagram2.png" width="65%" >
+<img src="diagram2.png" width="100%" >
 
 # Handy Tutor Server 
 ## How to install 
